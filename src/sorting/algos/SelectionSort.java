@@ -1,5 +1,12 @@
 package sorting.algos;
-
+/**
+ * Time complexity of Selection sort :-
+ * Best case : O(n2)
+ * Average case : O(n2)
+ * Worst case : O(n2)
+ * @author shekhar
+ *
+ */
 public class SelectionSort {
 
 	public static void main(String[] args) {
